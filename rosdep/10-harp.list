@@ -1,2 +1,2 @@
-yaml https://raw.githubusercontent.com/HARPLab/pr-rosinstalls/master/rosdep/osx-homebrew.yaml osx
-yaml https://raw.githubusercontent.com/HARPLab/pr-rosinstalls/master/rosdep/base.yaml
+yaml https://raw.githubusercontent.com/HARPLab/harplab-rosinstalls/master/rosdep/osx-homebrew.yaml osx
+yaml https://raw.githubusercontent.com/HARPLab/harplab-rosinstalls/master/rosdep/base.yaml
