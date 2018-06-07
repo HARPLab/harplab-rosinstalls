@@ -1,6 +1,7 @@
 - git:
     local-name: ada
     uri: https://github.com/HARPLab/ada.git
+    version: kinetic
 - git:
     local-name: ada_adjustable
     uri: git@github.com:HARPLab/ada_adjustable.git

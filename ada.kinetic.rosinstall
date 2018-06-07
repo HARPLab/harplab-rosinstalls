@@ -1,6 +1,7 @@
 - git:
     local-name: ada
     uri: https://github.com/HARPLab/ada.git
+    version: kinetic
 - git:
     local-name: comps
     uri: https://github.com/HARPLab/comps.git
