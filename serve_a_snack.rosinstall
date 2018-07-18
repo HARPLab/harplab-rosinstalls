@@ -1,0 +1,67 @@
+- git:
+    local-name: ada
+    uri: https://github.com/HARPLab/ada.git
+    version: kinetic
+- git:
+    local-name: ada_pupil_calibrate
+    uri: https://github.com/HARPLab/ada_pupil_cal.git
+- git:
+    local-name: ada_teleoperation
+    uri: https://github.com/HARPLab/ada_teleoperation.git
+    version: adjustable
+- git:
+    local-name: comps
+    uri: https://github.com/HARPLab/comps.git
+- git:
+    local-name: gazetracking
+    uri: https://github.com/HARPLab/gazetracking.git
+- git:
+    local-name: mico_hardware
+    uri: https://github.com/HARPLab/mico_hardware.git
+- git:
+    local-name: openrave_catkin
+    uri: https://github.com/HARPLab/openrave_catkin.git
+- git:
+    local-name: or_ompl
+    uri: https://github.com/HARPLab/or_ompl.git
+- git:
+    local-name: or_parabolicsmoother
+    uri: https://github.com/HARPLab/or_parabolicsmoother.git
+- git:
+    local-name: or_rviz
+    uri: https://github.com/HARPLab/or_rviz.git
+    version: kinetic
+- git:
+    local-name: or_trac_ik
+    uri: https://github.com/HARPLab/or_trac_ik.git
+- git:
+    local-name: or_trajopt
+    uri: https://github.com/HARPLab/or_trajopt.git
+- git:
+    local-name: or_urdf
+    uri: https://github.com/HARPLab/or_urdf.git
+- git:
+    local-name: pr_control_msgs
+    uri: https://github.com/HARPLab/pr_control_msgs.git
+- git:
+    local-name: pr-ordata
+    uri: https://github.com/HARPLab/pr-ordata.git
+- git:
+    local-name: prpy
+    uri: https://github.com/HARPLab/prpy.git
+- git:
+    local-name: pr_ros_controllers
+    uri: https://github.com/HARPLab/pr_ros_controllers.git
+- git:
+    local-name: serve_a_snack
+    uri: https://github.com/HARPLab/serve_a_snack.git
+- git:
+    local-name: trajopt
+    uri: https://github.com/HARPLab/trajopt.git
+- git:
+    local-name: tsr
+    uri: https://github.com/HARPLab/tsr.git
+- git:
+    local-name: zed_ros_recorder
+    uri: https://github.com/HARPLab/zed_ros_recorder.git
+    
