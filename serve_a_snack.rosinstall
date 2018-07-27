@@ -64,4 +64,4 @@
 - git:
     local-name: zed_ros_recorder
     uri: https://github.com/HARPLab/zed_ros_recorder.git
-    
+    version: zed-api-2.2.1
