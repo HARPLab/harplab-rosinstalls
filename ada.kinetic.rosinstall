@@ -48,3 +48,6 @@
 - git:
     local-name: tsr
     uri: https://github.com/HARPLab/tsr.git
+- git:
+    local-name: ros_controllers
+    uri: https://github.com/HARPLab/ros_controllers.git
