@@ -1,0 +1,98 @@
+- git:
+    local-name: ada
+    uri: git@github.com:HARPLab/ada.git
+    version: kinetic
+- git:
+    local-name: ada_adjustable
+    uri: git@github.com:HARPLab/ada_adjustable.git
+- git:
+    local-name: ada_assistance_policy
+    uri: git@github.com:HARPLab/ada_assistance_policy.git
+    version: adjustable
+- git:
+    local-name: ada_meal_scenario
+    uri: git@github.com:HARPLab/ada_meal_scenario.git
+    version: goal_from_gaze
+- git:
+    local-name: ada_teleoperation
+    uri: git@github.com:HARPLab/ada_teleoperation.git
+    version: adjustable
+- git:
+    local-name: aruco_localization
+    uri: git@github.com:HARPLab/aruco_localization.git
+- git:
+    local-name: comps
+    uri: git@github.com:HARPLab/comps.git
+- git:
+    local-name: gaze_labeling_pipeline
+    uri: git@github.com:HARPLab/gaze_labeling_pipeline.git
+- git:
+    local-name: gazetracking
+    uri: git@github.com:HARPLab/gazetracking.git
+- git:
+    local-name: goal_from_gaze_predictor
+    uri: git@github.com:HARPLab/goal_from_gaze_predictor.git
+- git:
+    local-name: harmonic_playback
+    uri: git@github.com:HARPLab/harmonic_playback.git
+- git:
+    local-name: harplab_sensors
+    uri: git@github.com:HARPLab/harplab_sensors.git
+- git:
+    local-name: ibmmpy
+    uri: git@github.com:HARPLab/ibmmpy.git
+- git:
+    local-name: mico_hardware
+    uri: git@github.com:HARPLab/mico_hardware.git
+- git:
+    local-name: morsel
+    uri: git@github.com:HARPLab/morsel.git
+- git:
+    local-name: mouse_as_joystick
+    uri: git@github.com:HARPLab/mouse_as_joystick.git
+- git:
+    local-name: openrave_catkin
+    uri: git@github.com:HARPLab/openrave_catkin.git
+- git:
+    local-name: or_ompl
+    uri: git@github.com:HARPLab/or_ompl.git
+- git:
+    local-name: or_parabolicsmoother
+    uri: git@github.com:HARPLab/or_parabolicsmoother.git
+- git:
+    local-name: or_rviz
+    uri: git@github.com:HARPLab/or_rviz.git
+    version: kinetic
+- git:
+    local-name: or_trac_ik
+    uri: git@github.com:HARPLab/or_trac_ik.git
+- git:
+    local-name: or_trajopt
+    uri: git@github.com:HARPLab/or_trajopt.git
+- git:
+    local-name: or_urdf
+    uri: git@github.com:HARPLab/or_urdf.git
+- git:
+    local-name: pr-ordata
+    uri: git@github.com:HARPLab/pr-ordata.git
+- git:
+    local-name: pr_control_msgs
+    uri: git@github.com:HARPLab/pr_control_msgs.git
+- git:
+    local-name: pr_ros_controllers
+    uri: git@github.com:HARPLab/pr_ros_controllers.git
+- git:
+    local-name: prpy
+    uri: git@github.com:HARPLab/prpy.git
+- git:
+    local-name: ros_myo
+    uri: git@github.com:uts-magic-lab/ros_myo.git
+- git:
+    local-name: semantic_gaze_labeling
+    uri: git@github.com:HARPLab/semantic_gaze_labeling.git
+- git:
+    local-name: trajopt
+    uri: git@github.com:HARPLab/trajopt.git
+- git:
+    local-name: tsr
+    uri: git@github.com:HARPLab/tsr.git
