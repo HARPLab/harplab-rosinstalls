@@ -27,8 +27,6 @@ newmat:
   ubuntu: [libnewmat10-dev]
 nlopt: # Override; ros-indigo-nlopt is too old for DART.
   ubuntu: [libnlopt-dev]
-openrave:
-  ubuntu: [pr-openrave]
 libopenthreads:
   ubuntu: [libopenthreads-dev]
 python-boto3:
