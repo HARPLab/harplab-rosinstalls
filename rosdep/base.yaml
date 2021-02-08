@@ -65,4 +65,4 @@ python-palettable:
     pip: [palettable]
 python-scikit-learn:
   ubuntu:
-    pip: [scikit-learn==0.20]
+    pip: [scipy==1.2.3, scikit-learn==0.20]
